@@ -9,7 +9,7 @@
 ## [d-Calibre](https://github.com/jasonzhouu/d-calibre) 
 ##### BITRUN Block Height：0031
 #### 团队成员：周宇盛、王秋然、炎霖
-#### 项目简介：
+#### 项目简介：decentralized book library based on IPFS
 
 <Br/>
 
